@@ -1,0 +1,8 @@
+Due to Large file size, I am not able to push the dataset to Github. But dont worry. you can get the dataset from https://www.kaggle.com/metmuseum/the-metropolitan-museum-of-art-open-access.
+
+steps to download the dataset.
+1. open/Click on the link given above.
+2. If you have kaggle account, login through it. If not create one & log in.
+3. You can Download button Before "New Notebook" blue button.
+4. Click on download & put it in the same folder where your jupyter notebook is going to be.
+5. finally, open jupyter notebook and refer the path. DONE!!!!!
